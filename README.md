@@ -1,7 +1,7 @@
 # PHD THESIS
 
-This repository contains my PhD thesis, which I defended in December 2024. The thesis can be read in its full in the document section. 
-The results from numerical calculations can be reproduced from the codes found in jupyter notebooks in the codes section. 
+This repository contains my PhD thesis, which I defended in December 2024. 
+The results from numerical calculations can be reproduced from the codes found in Jupyter notebooks in the Codes folder. 
 
 The various chapters in the thesis are based on publications in different journals. Below is a detailed breakdown.
 
